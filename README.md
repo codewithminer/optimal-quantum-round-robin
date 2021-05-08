@@ -2,7 +2,7 @@
 
 In the input.txt file:
 the first line represents dl
-The second line of our benchmark is based on one of the following:
+and The second line of the following:
 1. waiting time
 2. Response time
 3. TurnAround time
