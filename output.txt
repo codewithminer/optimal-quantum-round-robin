@@ -1,0 +1,14 @@
+
+OPTIMAL QUANTUM : 5
+
+Cpu Utilization : 40.625
+Throughput      : 0.0625
+TurnAroundTime  : 12
+Response Time   : 4.5
+Wating Time     : 0
+
+
+	--------------------------------
+	|  P0   |  P0(T)|  P1   |  P1(T)|
+	--------------------------------
+	0       5       20      29      32
