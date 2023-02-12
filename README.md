@@ -4,8 +4,8 @@ In the input.txt file, the first line represents DL and the second line specifie
 
 
 In the output.txt file we have: Calculate the five main criteria:
-Utilization
-Throughput
-TurnaroundTime
-ResponseTime
-WatingTime according to the criteria specified with Ganchart
+1.Utilization
+2.Throughput
+3.TurnaroundTime
+4.ResponseTime
+5.WatingTime according to the criteria specified with Ganchart
