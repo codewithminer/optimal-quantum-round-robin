@@ -1,21 +1,6 @@
 # optimal-quantum-round-robin
 
-In the input.txt file:
-the first line represents dl
-and The second line of the following:
-1. waiting time
-2. Response time
-3. TurnAround time
-Specifies the criterion with the first letter
-In the following lines, the processes are specified
-where the first number indicates the <arrival time> and the next numbers, respectively, the CPU burst time and IO burst time
+In the input.txt file, the first line represents DL and the second line specifies the criteria, with the first letter indicating waiting time, response time, and turnaround time. In the following lines, the processes are specified, with the first number indicating the CPU burst time and the next numbers indicating, respectively, the IO burst time.
 
 
-In the output.txt file we have:
-Calculate the five main criteria
-1. Utilization
-2. Throughput
-3. TurnaroundTime
-4. ResponseTime
-5. WatingTime
-according to the criteria specified with Ganchart
+In the output.txt file, we will calculate the five main criteria: utilization, throughput, turnaround time, response time, and waiting time, according to the Gantt chart specified in the criteria."
